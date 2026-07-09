@@ -3,6 +3,8 @@
 ## Project Overview
 This repository contains an end-to-end business intelligence and data visualization solution built in Tableau. The objective of this project is to bridge the gap between raw, unstructured data and high-level corporate strategy by engineering an interactive, executive-facing dashboard that identifies performance bottlenecks and uncovers operational efficiencies.
 
+![Tableau Dashboard Screenshot](image/dashboard.png)
+
 ## Business Value and Impact
 This solution bypasses generic reporting to deliver targeted, data-driven utility for corporate leadership:
 *   **Operational Efficiency:** Pinpoints systematic bottlenecks in workflow performance, enabling resource optimization and targeted process interventions.
